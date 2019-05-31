@@ -1,5 +1,5 @@
 # Site settings
-title: Shane Acoveno Portfolio
+title: Shane Acoveno
 description: A portfolio of Lehigh Computer Science student Shane Acoveno
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "http://shaneacoveno.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: A portfolio of Lehigh Computer Science student Shane Acoveno
 # User settings
 username: Shane Acoveno
 user_description: A portfolio of Lehigh Computer Science student Shane Acoveno
-user_title: Aspiring Software Engineer/Developer
+user_title: Studing Computer Science at Lehigh University
 email: shaneacoveno@gmail.com
 twitter_username: shaneacoveno
 github_username:  shaneacoveno
